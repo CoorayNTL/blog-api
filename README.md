@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## API Collection 
+[API documentatione](https://lively-water-154394.postman.co/workspace/My-Workspace~647308e4-24eb-4462-847c-ac5864b178cf/collection/25031717-0299622b-39ac-48d1-ba92-e6aa7892b2b5?action=share&creator=25031717)
 ## Relationships Overview
 ### One-to-Many (Users to Posts): Each user can create multiple posts, but each post belongs to one user.
 ### One-to-Many (Users to Comments): Each user can leave multiple comments, but each comment belongs to one user.
